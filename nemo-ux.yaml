@@ -33,7 +33,7 @@ Requires:
 - meegotouchcp-warranty
 - nemo-control-panel-applet-power
 - nemo-firstsession
-- nemo-mobile-session
+- nemo-mobile-session-xorg
 - nemo-theme-default
 # Wifi indicator needs this.
 - contextkit-plugin-mce
